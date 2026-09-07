@@ -1,5 +1,4 @@
 ## Security Portfolio</br></br>
----
 
 ### About me
 
@@ -13,6 +12,10 @@ I also work with Microsoft Azure and Entra ID to support secure cloud identity a
 building my security analyst skills through CTFs, certifications, and hands-on labs. Certified in CompTIA CySA+,
 Security+, ISC2 CC, AZ-900, Qualys with practical experience using SIEM tools, endpoint protection platforms, and
 security controls.</br></br>
+
+---
+
+### Cerifications
 
 <img width="647" height="500" alt="Clint Madara certifications_page-0001" src="https://github.com/user-attachments/assets/c491a7fe-91ec-4d43-900c-70293b712c5d" /></br>
 
