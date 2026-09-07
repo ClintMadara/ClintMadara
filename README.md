@@ -1,4 +1,8 @@
-## Hi there 👋
+## Security Portfolio</br></br>
+---
+
+### About me
+
 
 Cybersecurity junior and IT support technician with a strong interest in security operations, threat hunting, incident response
 and vulnerability management. I contribute to maintaining secure enterprise environments through vulnerability
