@@ -10,7 +10,7 @@ building my security analyst skills through CTFs, certifications, and hands-on l
 Security+, ISC2 CC, AZ-900, Qualys with practical experience using SIEM tools, endpoint protection platforms, and
 security controls.</br></br>
 
-<img width="3300" height="2550" alt="Clint Madara certifications_page-0001" src="https://github.com/user-attachments/assets/c491a7fe-91ec-4d43-900c-70293b712c5d" /></br>
+<img width="1000" height="773" alt="Clint Madara certifications_page-0001" src="https://github.com/user-attachments/assets/c491a7fe-91ec-4d43-900c-70293b712c5d" /></br>
 
 <img width="3300" height="2550" alt="Clint Madara certifications_page-0002" src="https://github.com/user-attachments/assets/6514c17d-5912-4437-a639-5c1f23db7d0f" /></br>
 
