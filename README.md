@@ -23,7 +23,8 @@ security controls.</br></br>
 
 <img width="647" height="500" alt="Clint Madara certifications_page-0003" src="https://github.com/user-attachments/assets/a4a792e5-ac02-4c4d-9de5-47ed84afb73c" /></br>
 
-<img width="647" height="500" alt="Clint Madara certifications_page-0004" src="https://github.com/user-attachments/assets/9bfe9de3-8d68-4336-a667-96abacd05b80" />
+<img width="647" height="500" alt="Clint Madara certifications_page-0004" src="https://github.com/user-attachments/assets/fcb0c0b3-5718-4257-a85e-a1e9538863cb" />
+
 
 
 
